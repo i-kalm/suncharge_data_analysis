@@ -1,0 +1,43 @@
+Material,Component,Product Category,Finished Product
+EVCB-001,,EV Car Battery - FP,EV Car Battery
+BC-001,Battery Cells,Battery Cells,EV Car Battery
+BMS-001,Battery Management System (BMS),Battery Management System (BMS),EV Car Battery
+CF-001,Cooling Fans,Thermal Management System,EV Car Battery
+CF-002,Cooling Fans,Thermal Management System,EV Car Battery
+HE-001,Heat Exchangers,Thermal Management System,EV Car Battery
+HE-002,Heat Exchangers,Thermal Management System,EV Car Battery
+TS-001,Temperature Sensors,Thermal Management System,EV Car Battery
+TS-002,Temperature Sensors,Thermal Management System,EV Car Battery
+ECB-001,Enclose Car Battery,Enclosure,EV Car Battery
+W-001,Wires,Wiring and Connectors,EV Car Battery
+W-002,Wires,Wiring and Connectors,EV Car Battery
+C-001,Connectors,Wiring and Connectors,EV Car Battery
+C-002,Connectors,Wiring and Connectors,EV Car Battery
+IM-001,Insulation Materials,Insulation Materials,EV Car Battery
+IM-002,Insulation Materials,Insulation Materials,EV Car Battery
+IM-003,Insulation Materials,Insulation Materials,EV Car Battery
+F-001,Fuses,Miscellaneous,EV Car Battery
+F-002,Fuses,Miscellaneous,EV Car Battery
+R-001,Relays,Miscellaneous,EV Car Battery
+R-002,Relays,Miscellaneous,EV Car Battery
+R-003,Relays,Miscellaneous,EV Car Battery
+OEC-001,Other Electrical Components,Miscellaneous,EV Car Battery
+OEC-002,Other Electrical Components,Miscellaneous,EV Car Battery
+OEC-003,Other Electrical Components,Miscellaneous,EV Car Battery
+HB-001,,EV Home Battery - FP,Home Battery
+BC-001,Battery Cells,Battery Cells,Home Battery
+BMS-001,Battery Management System (BMS),Battery Management System (BMS),Home Battery
+IN-001,Inverter,Inverter,Home Battery
+CC-001,Charge Controller,Charge Controller,Home Battery
+EHB-001,Enclosure Home Battery,Enclosure,Home Battery
+MS-001,Monitoring system,Monitoring system,Home Battery
+W-001,Wires,Wiring and Connectors,Home Battery
+W-002,Wires,Wiring and Connectors,Home Battery
+C-001,Connectors,Wiring and Connectors,Home Battery
+F-002,Fuses,Miscellaneous,Home Battery
+F-003,Fuses,Miscellaneous,Home Battery
+R-001,Relays,Miscellaneous,Home Battery
+R-003,Relays,Miscellaneous,Home Battery
+OEC-003,Other Electrical Components,Miscellaneous,Home Battery
+OEC-004,Other Electrical Components,Miscellaneous,Home Battery
+OEC-005,Other Electrical Components,Miscellaneous,Home Battery

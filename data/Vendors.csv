@@ -1,0 +1,10 @@
+VendorKey,VendorTier,VendorName,VendorCountry,VendorCity,VendorPostalCode,VendorStreet
+1001,T0,Antwerp Production,Belgium,Antwerp,2030,Scheldelaan
+1002,T0,Wrocław Production,Poland,Wrocław,54-202,Legnicka
+1003,T0,Lyon Production,France,Lyon,69160,Av. Mathieu Misery
+1,T1,Fadel Group,China,Jiaxing,,Xiuzhou District
+2,T1,Stiedemann,Germany,Dortmund,44135,"27013, Talisman Park"
+3,T1,Walker-Homenick,Poland,Poznan,60-001,"99, Bluejay Pass"
+4,T1,Greenfelder and Sons,United States,Detroit,48127,"99378, Dorton Point"
+5,T1,DragonCell Energy,China,Shanghai,,Hai Yang Lu
+6,T1,JadePower Battery,Taiwan,Miaoli,,"392-416, Zhonghua Rd"
